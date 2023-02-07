@@ -29,7 +29,7 @@ class TaskListViewController: UIViewController {
 
         // Populate mocked data
         // Comment out this line if you want the app to load without any existing tasks.
-        tasks = Task.mockedTasks
+//        tasks = Task.mockedTasks
     }
 
     override func viewWillAppear(_ animated: Bool) {
